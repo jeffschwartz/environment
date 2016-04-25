@@ -1,6 +1,6 @@
 {
   "name": "@jeffreyschwartz/environment",
-  "version": "0.0.1",
+1 "version": "0.0.2",
   "description": "Exports window or global depending on the runtime environment being either Windows or Node",
   "main": "index.js",
   "scripts": {
