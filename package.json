@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Jeffrey Schwartz <preamble.ts@gmail.com> (https://github.com/Preamble-BDD/standalone)",
+  "repository" :
+   {
+       "type" : "git",
+       "url" : "https://github.com/jeffschwartz/environment"
+   },
   "license": "MIT"
 }
