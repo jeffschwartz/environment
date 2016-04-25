@@ -1,0 +1,12 @@
+{
+  "name": "@jeffreyschwartz/environment",
+  "version": "0.0.1",
+  "description": "Exports window or global depending on the runtime environment being either Windows or Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeffrey Schwartz <preamble.ts@gmail.com> (https://github.com/Preamble-BDD/standalone)",
+  "license": "MIT"
+}
